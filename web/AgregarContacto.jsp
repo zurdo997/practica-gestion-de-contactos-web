@@ -22,6 +22,8 @@
                 <br/>
                 <input type="tel" class="form-control" name="telefono" placeholder="Teléfono" required="required">
                 <br/>
+                <input type="email" class="form-control" name="email" placeholder="Correo electrónico" required="required">
+                <br/>
                 <input type="submit" class="btn btn-primary" name="accion" value="Agregar Nuevo Contacto">
             </form>
             <div class="col-6">
